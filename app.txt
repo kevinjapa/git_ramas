@@ -1,3 +1,5 @@
 Funcionalidades:
 - Login: COMPLETADO (Realizado por Jhon Llivicota)
 - Perfil: PENDIENTE
+
+-Login:COMPLETADO (Paul Proaño)
