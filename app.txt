@@ -3,3 +3,4 @@ Funcionalidades:
 - Perfil: PENDIENTE
 
 -Login:COMPLETADO (Paul Proaño)
+-Login:COMPLETADO (Kevin Japa)

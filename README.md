@@ -6,6 +6,7 @@ Ejercicio Práctico de Git – Creación y Uso de Ramas
 Commit realizado desde la rama feature/perfil-jhon-llivicota
 Commit realizado desde la rama feature/perfil-jose-chillogalli
 Commit realizado desde la rama feature/perfil-paul-proanio
+Commit realizado desde la rama feature/perfin-kevin-japa
 ### Integrantes
 
 Fabricio Borja  
